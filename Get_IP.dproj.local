@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021-08-04 22:05:48.906,=C:\Users\AdeL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-08-04 22:06:39.264,D:\Get IP Delphi\GetIp_Main.dfm=C:\Users\AdeL\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021-08-04 22:06:39.264,D:\Get IP Delphi\GetIp_Main.pas=C:\Users\AdeL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-08-04 22:07:00.498,C:\Users\AdeL\Documents\Embarcadero\Studio\Projects\Get_IP.dproj=C:\Users\AdeL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021-08-04 22:33:02.082,D:\Get IP Delphi\Get_IP.dproj=C:\Users\AdeL\Documents\Embarcadero\Studio\Projects\Get_IP.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
